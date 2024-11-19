@@ -117,7 +117,7 @@ const App = () => {
             return {
               ...item,
               color: '#FD802F',
-              countdown: 3,
+              // countdown: 3,
               isDisappearing: true
             }
           }
